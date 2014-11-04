@@ -61,5 +61,5 @@ The main script is soil.m, includes model building, training and submission.
 
 
 ## References
-* http://www.kaggle.com/c/afsis-soil-properties "Africa Soil Property Prediction Challenge"
-* https://github.com/CharlyBi/Soil-Prediction.
+1 http://www.kaggle.com/c/afsis-soil-properties "Africa Soil Property Prediction Challenge"
+2 https://github.com/CharlyBi/Soil-Prediction.
