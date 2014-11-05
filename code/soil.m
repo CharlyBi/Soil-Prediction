@@ -105,7 +105,7 @@ for k = 1:5 %loop over 5 targets
                         %train NN with levenberg-marquet algorithm
                         net = trainlm(net, x_train(ii,:)',y(ii,k)');
 
-                        %applied the network to the test data and acc.
+                        %apply the network to the test data and acc.
                         y_target = y_target + net(x_test')';
 		end
 
