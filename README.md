@@ -43,7 +43,7 @@ in, all models, the cross validation creats a strong noise. Adding the
 fact that the training set and test set are relativly small in size
 (1158 data elements for the training and 727 elements for the test
 set) it was clear that overfitting is a big issue here. This make the
-LB results is very problemtic.
+LB results very problemtic.
 
 Our model used matlab implementation of neural networks, trainlm.
 This uses the robust levenberg-marquet algorithm. The layer
